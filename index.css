@@ -1,0 +1,31 @@
+.navbar {
+  background-color:gray;
+  display:inline;
+
+}
+
+li {
+
+  text-decoration: none;
+  text-align: justify;
+}
+
+.topnav a {
+  display:inline;
+  text-align:center;
+  text-decoration:none;
+  font-size:17px;
+  color:#f2f2f2
+
+
+}
+
+.topnav a:hover {
+  background-color:#ddd;
+  color:black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
